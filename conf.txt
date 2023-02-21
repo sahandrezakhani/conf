@@ -1,1 +1,0 @@
-vless://9c969695-c933-45ba-91dd-776ed6e508a5@work.mihangem.net:443?type=ws&security=tls&path=%2F&sni=work.mihangem.net#%D8%A7%D8%B1%D9%88%D8%A7%D9%86-soheil
