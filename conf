@@ -1,4 +1,0 @@
-vless://df1aa4c1-9803-4d1f-8f43-1cf42dcd1a02@dl1.downloadcartoon.pw:35211?type=ws&security=tls&path=%2F&sni=dl1.downloadcartoon.pw&flow=#vless%2Bws%2Btls-%231
-vless://41dd538e-c0db-409a-b5f5-71e74eebf820@dl1.mihangem.net:443?type=ws&security=tls&path=%2F&sni=dl1.mihangem.net&flow=#vless%2Bws%2Btls%20(arvan)-%232
-vless://6bdb9e92-7a34-4325-ed3f-7cb651fae617@dl1.downloadcartoon.info:2053?type=ws&security=tls&path=%2F&sni=dl1.downloadcartoon.info&flow=#vless%2Bws%2Btls%20(cloudflare)-%233
-vless://9022c6a9-3f0a-4f88-ec63-234ec65eef88@dl1.downloadcartoon.info:2083?type=grpc&security=tls&serviceName=www.speedtest.net&sni=dl1.downloadcartoon.info&flow=#vless%2Bgrpc%2Btls%20(cloudflare)-%234
