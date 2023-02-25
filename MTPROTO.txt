@@ -1,4 +1,0 @@
-Normal:          https://t.me/proxy?server=192.248.179.75&port=7743&secret=bdb0a793f974f8b7c2245ff77a45505a
-Secure:          https://t.me/proxy?server=192.248.179.75&port=7743&secret=ddbdb0a793f974f8b7c2245ff77a45505a
-Fake-TLS hex:    https://t.me/proxy?server=192.248.179.75&port=7743&secret=eebdb0a793f974f8b7c2245ff77a45505a79616e6465782e636f6d
-Fake-TLS base64: https://t.me/proxy?server=192.248.179.75&port=7743&secret=7r2wp5P5dPi3wiRf93pFUFp5YW5kZXguY29t
