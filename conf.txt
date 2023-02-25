@@ -1,4 +1,3 @@
-vless://3605c91d-8eae-4833-8d72-447bd3056b85@blog.mihanclouddownloading.net:80?type=ws&security=tls&path=%2F&sni=blog.mihanclouddownloading.net&flow=#Irancell-1
-vless://78fd204d-25d7-42ef-ea2a-86c08a23ac6f@blog.downloadcartoon.info:2053?type=ws&security=tls&path=%2F&sni=blog.downloadcartoon.info&flow=#Wifi-2
-vless://800ec7c5-19fa-465f-8da1-b75af3156808@blog.downloadcartoon.info:2083?type=ws&security=tls&path=%2F&sni=blog.downloadcartoon.info&flow=#Hamrah-3
-vless://46a82dbc-813a-4c42-8807-7d59398a74fa@blog.mihangem.net:443?type=ws&security=tls&path=%2F&sni=blog.mihangem.net&flow=#Arvan-4
+vless://49e3808f-544f-4e29-e48f-f2a74d357e97@pix.downloadcartoon.pw:80?type=ws&security=tls&path=%2F&sni=pix.downloadcartoon.pw&flow=#vless%2Bws%2Btls-1
+vless://6a7679d4-4ab2-466d-9db0-57f5f4f748a2@pix.downloadcartoon.info:2083?type=ws&security=tls&path=%2F&sni=pix.downloadcartoon.info&flow=#vless%2Bws%2Btls%2Bcloudflare-2
+vless://1a2af941-cc53-46d1-a9c0-f8d3691312ad@pix.mihangem.net:443?type=ws&security=tls&path=%2F&sni=pix.mihangem.net&flow=#vless%2Bws%2Btls%2Barvan-3
