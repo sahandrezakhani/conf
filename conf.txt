@@ -1,3 +1,2 @@
-vless://49e3808f-544f-4e29-e48f-f2a74d357e97@pix.downloadcartoon.pw:80?type=ws&security=tls&path=%2F&sni=pix.downloadcartoon.pw&flow=#vless%2Bws%2Btls-1
-vless://6a7679d4-4ab2-466d-9db0-57f5f4f748a2@pix.downloadcartoon.info:2083?type=ws&security=tls&path=%2F&sni=pix.downloadcartoon.info&flow=#vless%2Bws%2Btls%2Bcloudflare-2
-vless://1a2af941-cc53-46d1-a9c0-f8d3691312ad@pix.mihangem.net:443?type=ws&security=tls&path=%2F&sni=pix.mihangem.net&flow=#vless%2Bws%2Btls%2Barvan-3
+vless://a0e2e08e-98d6-4765-a102-e329cdaa3f59@ppanel.mihangem.net:443?type=ws&security=tls&path=%2F&sni=ppanel.mihangem.net&fp=chrome#Arvan-2
+vless://08aba987-e8a8-4060-de67-922c6e31e394@ppanel.downloadcartoon.info:2053?type=ws&security=tls&path=%2F&sni=ppanel.downloadcartoon.info&fp=chrome#Cloudflare-3
