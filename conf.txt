@@ -1,2 +1,4 @@
 vless://a0e2e08e-98d6-4765-a102-e329cdaa3f59@ppanel.mihangem.net:443?type=ws&security=tls&path=%2F&sni=ppanel.mihangem.net&fp=chrome#Arvan-2
 vless://08aba987-e8a8-4060-de67-922c6e31e394@ppanel.downloadcartoon.info:2053?type=ws&security=tls&path=%2F&sni=ppanel.downloadcartoon.info&fp=chrome#Cloudflare-3
+vless://92e2e1d2-84f1-4fd5-a40c-d16be8c39172@ppanel.mihanclouddownloading.net:17963?type=ws&security=tls&path=%2F&sni=ppanel.mihanclouddownloading.net&fp=chrome#Vless-4
+trojan://6YFzIWXo5d@ppanel.mihanclouddownloading.net:25487?type=ws&security=tls&path=%2F&sni=ppanel.mihanclouddownloading.net&flow=#Trojan-5
