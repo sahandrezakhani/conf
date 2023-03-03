@@ -1,4 +1,3 @@
-vless://a0e2e08e-98d6-4765-a102-e329cdaa3f59@ppanel.mihangem.net:443?type=ws&security=tls&path=%2F&sni=ppanel.mihangem.net&fp=chrome#Arvan-2
-vless://08aba987-e8a8-4060-de67-922c6e31e394@ppanel.downloadcartoon.info:2053?type=ws&security=tls&path=%2F&sni=ppanel.downloadcartoon.info&fp=chrome#Cloudflare-3
-vless://92e2e1d2-84f1-4fd5-a40c-d16be8c39172@ppanel.mihanclouddownloading.net:17963?type=ws&security=tls&path=%2F&sni=ppanel.mihanclouddownloading.net&fp=chrome#Vless-4
-trojan://6YFzIWXo5d@ppanel.mihanclouddownloading.net:25487?type=ws&security=tls&path=%2F&sni=ppanel.mihanclouddownloading.net&flow=#Trojan-5
+trojan://8CrrR6AGem@fade.downloadcartoon.pw:47398?type=ws&security=tls&path=%2F&sni=fade.downloadcartoon.pw&flow=#Trojan-1
+vless://8c6977cf-9dc3-4c21-c5ba-f1b7d2dc8510@fade.mihangem.net:443?type=ws&security=tls&path=%2F&sni=fade.mihangem.net&fp=chrome#Arvan-2
+vless://a5cd3e98-47bb-4365-e7c3-4ec27fabb466@fade.downloadcartoon.info:2087?type=ws&security=tls&path=%2F&sni=fade.downloadcartoon.info&fp=chrome#Cloudflare-3
