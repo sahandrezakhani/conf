@@ -1,4 +1,1 @@
-Normal:          https://t.me/proxy?server=65.20.100.215&port=3376&secret=2dcdaa20ae3bb067d3b1c6b7b1ec8eb9
-Secure:          https://t.me/proxy?server=65.20.100.215&port=3376&secret=dd2dcdaa20ae3bb067d3b1c6b7b1ec8eb9
-Fake-TLS hex:    https://t.me/proxy?server=65.20.100.215&port=3376&secret=ee2dcdaa20ae3bb067d3b1c6b7b1ec8eb979616e6465782e636f6d
-Fake-TLS base64: https://t.me/proxy?server=65.20.100.215&port=3376&secret=7i3NqiCuO7Bn07HGt7Hsjrl5YW5kZXguY29t
+
