@@ -1,4 +1,3 @@
 trojan://a0MrJt6prC@xhost.mihanclouddownloading.net:41698?type=ws&security=tls&path=%2F&sni=xhost.mihanclouddownloading.net&flow=#Trojan-1
 vless://ad3e6780-d8f0-43be-f83f-a50a8c85864e@xhost.mihangem.net:443?type=ws&security=tls&path=%2F&sni=xhost.mihangem.net&fp=chrome#Arvan-2
-vless://ea9e8a13-ca6b-474f-be8d-bef8250cd433@xhost.downloadcartoon.info:8443?type=ws&security=tls&path=%2F&sni=xhost.downloadcartoon.info&fp=chrome#Cloudflare-3
-trojan://Z6TZWmeDtK@xhost.downloadcartoon.info:2053?type=ws&security=tls&path=%2F&sni=xhost.downloadcartoon.info&flow=#Trojan%20CDN-4
+vless://ea9e8a13-ca6b-474f-be8d-bef8250cd433@xhost.downloadcartoon.info:8443?type=ws&security=tls&path=%2F&sni=xhost.downloadcartoon.info&fp=chrome#Cloudflare-3trojan://Z6TZWmeDtK@xhost.downloadcartoon.info:2053?type=ws&security=tls&path=%2F&sni=xhost.downloadcartoon.info&flow=#Trojan%20CDN-4
